@@ -1,0 +1,7 @@
+{
+  "name": "mothership",
+  "description": "",
+  "dependencies": {
+    "node-cron": "^2.0.3"
+  }
+}
