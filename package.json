@@ -2,6 +2,7 @@
   "name": "mothership",
   "description": "",
   "dependencies": {
-    "node-cron": "^2.0.3"
+    "node-cron": "^2.0.3",
+    "serialport": "^7.1.5"
   }
 }
